@@ -48,7 +48,7 @@ public class Model {
 		}
 		
 		// Generiamo i sottoproblemi
-		// Decidiamo se inserire o meno emani[L] e vado avanti con entrambi le strade
+		// Decidiamo se inserire o meno esami[L] e vado avanti con entrambi le strade
 				
 		// Caso 1: aggiungo
 		parziale.add(esami.get(L));
